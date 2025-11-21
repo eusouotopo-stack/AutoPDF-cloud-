@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /uploads/
-Allow: /
-
-Sitemap: https://seudominio.com/sitemap.xml
